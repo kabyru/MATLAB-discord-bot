@@ -9,4 +9,4 @@ No support for files yet, just simple MATLAB command inputs. History nor variabl
 
 ![first screenshot](https://i.imgur.com/JAs5VVn.png)
 
-![second screenshot](https://i.imgur.com/hVnZDIP.png)
+![second screenshot](https://i.imgur.com/Vn9czLp.png)
